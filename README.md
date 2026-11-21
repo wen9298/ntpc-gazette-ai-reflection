@@ -1,2 +1,5 @@
-# ntpc-gazette-ai-reflection
-見習中的 AI 協作｜新北市政府公報 - GitHub Pages
+# 見習筆記：新北市政府公報與 AI 協作
+
+這個網頁整理公報從分類、編製到校對的流程，也記錄哪些地方可以請 AI 幫忙、哪些還是要對照原件。像是法規、日期和數字，不會把 AI 的輸出當作最後答案。
+
+可以看[見習筆記網頁](https://wen9298.github.io/ntpc-gazette-ai-reflection/)，或在這個資料夾用瀏覽器開啟 `index.html`。這是個人的見習整理，不是機關的正式公報或作業規範；展示頁程式由 AI 生成。
